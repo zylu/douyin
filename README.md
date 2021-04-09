@@ -26,7 +26,7 @@ SpringBoot + elementUI + vue前后端分离源码
 
 #### 联系我们
 扫码二维码加入交流群（正规去运营就不会死，偷偷摸摸发视频抖音不封你封谁？）
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0408/151027_2ea07080_344794.png "contact_me_qr.png")
+![image](https://github.com/zylu/douyin/blob/9d49ae3a298111d7da66c0437f0851ad85f36389/151027_2ea07080_344794.png)
 
 
 
