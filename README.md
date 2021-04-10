@@ -1,4 +1,4 @@
-# 抖音爆店码Java源码
+# 抖音爆店码抖音同城推Java源码
 
 #### 介绍
 抖音爆店码|抖音同城推|扫码转发视频领优惠券JavaSpringboot源码
@@ -26,8 +26,7 @@ SpringBoot + elementUI + vue前后端分离源码
 
 #### 联系我们
 QQ:598151972
-扫码二维码加入交流群（正规去运营就不会死，偷偷摸摸发视频抖音不封你封谁？）
-![image](https://github.com/zylu/douyin/blob/9d49ae3a298111d7da66c0437f0851ad85f36389/151027_2ea07080_344794.png)
+企业微信群：![image](https://github.com/zylu/douyin/raw/main/151027_2ea07080_344794.png?raw=true)
 
 
 
